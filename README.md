@@ -1,5 +1,8 @@
 ## StyleGAN2 with adaptive discriminator augmentation (ADA)<br>&mdash; Official TensorFlow implementation
 
+Updated to work with TensorFlow 2.x by @erinaceous - allowing support for Python 3.8+ and CUDA 11.2+
+
+
 ![Teaser image](./docs/stylegan2-ada-teaser-1024x252.png)
 
 **Training Generative Adversarial Networks with Limited Data**<br>
